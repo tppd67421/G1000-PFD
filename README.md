@@ -1,6 +1,8 @@
-# X-Plane (aircraft instrument)
+# G1000 (flight instruments)
 
 > This project don't have deployed version. You can only see code [here](./code-example/HorizontalSituationIndicator) (horizontal situation indicator).
+
+> Second part of the project you can see [here](https://github.com/tppd67421/G1000-menu).
 
 > :warning: **Warning!** This page have many gif files. Maybe will be needed more time for load.
 
@@ -11,7 +13,7 @@
 
 ## Project description
 
-This project represents aircraft instruments, which connected with [X-Plane application](https://www.x-plane.com/). On screen you can see next aircraft instruments:
+This project represents flight instrument [G1000](https://en.wikipedia.org/wiki/Garmin_G1000), which connected with [X-Plane application](https://www.x-plane.com/). G1000 have two mode: PFD and MFD. Purpose of work was creating basic flight instruments from PFD mode. On screen you can see next aircraft instruments:
 
  - [Airspeed Indicator](#1-airspeed-indicator) (left side on image);
  - [Attitude Indicator](#2-attitude-indicator) (top center);
